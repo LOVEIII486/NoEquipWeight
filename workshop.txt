@@ -1,0 +1,11 @@
+﻿[h1]无视装备负重 / No Equip Weight[/h1]
+
+[hr][/hr]
+
+忽略玩家身上的所有装备与武器重量，包括所有插槽内的配件重量，保留背包内物资的重量。
+原模组[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3591358986]无视装备负重[/url]存在 [b]严重性能漏洞[/b]：在后台会持续打印数十万行重复日志，导致游戏帧率下降约30–50 FPS。
+由于原作者似乎已停止维护，本模组提供了一个重写版本。
+
+[hr][/hr]
+
+本模组代码非常简单，完全开源：[url=https://github.com/LOVEIII486/NoEquipWeight]GitHub- NoEquipWeight[/url]
